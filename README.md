@@ -1,4 +1,4 @@
-Guía de inicio en el desarrollo de aplicaciones móviles
+Aplicaciones Móviles Chile
 ==========================================================
 
 ----------
@@ -10,4 +10,7 @@ Guía de inicio en el desarrollo de aplicaciones móviles
  4. [WINDOWS PHONE](https://github.com/px740/appmovilchile/blob/master/wp.md)
  5. [HÍBRIDAS](https://github.com/px740/appmovilchile/blob/master/hibridas.md)
 
+----------
 
+[FB](https://www.facebook.com/groups/Aplicaciones.Moviles.Chile/)
+-
